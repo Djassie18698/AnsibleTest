@@ -1,1 +1,3 @@
 This is the last_commit.txt where everytime i commit, it should see it automatically!
+
+commit1
