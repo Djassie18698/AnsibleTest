@@ -1,6 +1,6 @@
 from datetime import datetime
 
-# Get current time as a string
+# Get current time as a string yes
 now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 # Write to or update done.txt
